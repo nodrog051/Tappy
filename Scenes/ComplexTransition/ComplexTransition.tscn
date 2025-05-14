@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://d2ewbvo2x7mtn"]
+
+[node name="ComplexTransition" type="CanvasLayer"]
+layer = 2
